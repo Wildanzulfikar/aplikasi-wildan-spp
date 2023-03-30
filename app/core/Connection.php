@@ -3,7 +3,7 @@ session_start();
 $host = "localhost";
 $username = "root";
 $password = "";
-$dbName = "spp";
+$dbName = "aplikasi_spp2023";
 
 
 $conn = new Mysqli($host,$username,$password,$dbName);

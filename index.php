@@ -26,7 +26,6 @@
         <span class="navbar-brand mb-0 h1 text-white">SPP</span>
 
         <button type="button" class="btn text-white" data-bs-toggle="modal" data-bs-target="#modal-login">Login</button>
-
       </div>
     </nav>
   
@@ -36,8 +35,8 @@
           <div class="col-md-6">
 
             <div class="text-center my-3">
-              <h2 class="fs-3">SMK Taruna Harapan 1 Cipatat</h2>
-              <p>Cek pembayaran SPP</p>
+              <h2 class="fs-3">SELAMAT DATANG DI APLIKASI PEMBAYARAN SPP</h2>
+              <p>Cek pembayaran SPP Anda</p>
             </div>
 
             <form action="" id="cek-pembayaran">
@@ -97,7 +96,7 @@
               <span data-password="hide" id="password-hider" class="btn btn-primary" id="addon"><i class="fa fa-eye"></i></span>
             </div>
 
-            <button type="submit" name="login" class="btn btn-primary mt-2 col-12 py-2">Login</button>
+            <button type="submit" name="login" class="btn btn-primary mt-2 col-12 py-2">Login Petugas</button>
           </form>
         </div>
       </div>

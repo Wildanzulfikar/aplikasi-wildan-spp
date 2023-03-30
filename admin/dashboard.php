@@ -52,7 +52,6 @@ $officerData = $app->getOfficerInfo($_SESSION['username']);
     <div class="header-sidebar text-center">
       <div class="title">
          <h2>Aplikasi SPP</h2>
-        <h4>Tarpan One</h4>
       </div>
     </div>
 
